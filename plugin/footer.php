@@ -4,8 +4,8 @@
             <div class="col-lg-4">
                 <div class="mb-4">
                     <i class="fas fa-blog fa-2x mb-2" style="color: #644A07;"></i>
-                    <h2 class="fs-3 fw-bold mb-2">PMND Blog</h2>
-                    <p class="footer-text">บริการสร้างเว็บบล็อกฟรีสำหรับ YouTuber เเละช่องทางอื่นๆ ที่ต้องการพื้นที่แชร์เรื่องราวกับแฟนคลับ</p>
+                    <h2 class="fs-3 fw-bold mb-2"> Blog</h2>
+                  
                 </div>
             </div>
             
@@ -21,11 +21,7 @@
             
             <div class="col-lg-3 col-md-4">
                 <h5 class="footer-title">ติดต่อเรา</h5>
-                <ul class="footer-contact">
-                    <li><i class="fas fa-envelope me-2"></i> contact@pmnd.com</li>
-                    <li><i class="fas fa-phone me-2"></i> (66) 98-765-4321</li>
-                    <li><i class="fas fa-map-marker-alt me-2"></i> กรุงเทพมหานคร, ประเทศไทย</li>
-                </ul>
+                
             </div>
             
             <div class="col-lg-3 col-md-4">
